@@ -16,4 +16,4 @@ The following analyses were performaned:
 - The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 - Three observations or inferences that can be made from the data
 
-Tools Used: Pandas, Numpy, Matplotlib, jupyter notebook
+Tools Used: Pandas, Numpy, Matplotlib, jupyter notebook.
