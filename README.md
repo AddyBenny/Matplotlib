@@ -14,6 +14,6 @@ The following analyses were performaned:
 - A line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 - A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 - The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
-- Three observations or inferences that can be made from the data
+- Three observations or inferences that can be made from the data.
 
 Tools Used: Pandas, Numpy, Matplotlib, jupyter notebook.
